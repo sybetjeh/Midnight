@@ -47,16 +47,7 @@ Custom Options */
 /**
 -----------------------------------------------
 -----------------------------------------------
-Hide "Most Viewed Content" :
-If you want to display the "Most Viewed Content Today" section on the homepage,
-delete the code in this section. */
-.p-body-pageContent .block ~ .block .block-container .block-body .structItemContainer .structItem--thread {
-    display: none
-}
 
-.p-body-pageContent .block ~ .block .block-container .block-header {
-    display: none
-}
 /**
 -----------------------------------------------
 -----------------------------------------------
